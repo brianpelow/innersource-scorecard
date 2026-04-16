@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-04-16T04:48:46.678362+00:00",
+  "date": "2026-04-16",
+  "repo": "innersource-scorecard",
+  "overall_score": 82,
+  "grade": "B",
+  "dimensions": {
+    "discoverability": {
+      "score": 100,
+      "passed": 5,
+      "total": 5
+    },
+    "documentation": {
+      "score": 83,
+      "passed": 4,
+      "total": 5
+    },
+    "contribution": {
+      "score": 72,
+      "passed": 4,
+      "total": 6
+    },
+    "adoption": {
+      "score": 72,
+      "passed": 3,
+      "total": 5
+    }
+  },
+  "recommendations": [
+    "[Documentation] Add examples/ or docs/examples/ directory",
+    "[Contribution] Add .github/pull_request_template.md",
+    "[Contribution] Add .github/ISSUE_TEMPLATE/ directory",
+    "[Adoption] Add Dockerfile or docker-compose.yml for easy local setup",
+    "[Adoption] No stars yet"
+  ]
+}
